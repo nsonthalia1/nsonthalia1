@@ -19,7 +19,7 @@
   <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=nsonthalia1&theme=cobalt&show_icons=true&count_private=true" />
   <img align="right" height="270px" width="350" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" /> </a>
 </p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <a href="https://linkedin.com/in/nsonthalia1" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="naman" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/namaniyaa" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="naman" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/namanxg" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
