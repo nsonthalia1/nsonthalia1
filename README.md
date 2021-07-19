@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Bonjour 👋🏻, Its me, Naman. What up? </h1>
+<h3 align="center">I'm a Student, a Developer and a Learner!</h3>
 
-<!--
-**nsonthalia1/nsonthalia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- 🤜🏻🤛🏻 I’m looking to collaborate on **App & Web based projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about - **HTML , CSS, Bootstrap, Angular, JavaScript, jQuery, MongoDB.....**
+
+- 📧 How to reach me? **Connect to me via Email [Naman](mailto:namansonthalia5@gmail.com)**
+
+- ⚡ Fun fact: **I just made me laugh😆**
+
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nsonthalia1&label=Profile%20views&color=0e75b6&style=flat" alt="nsonthalia1" /></p>
+<p>
+<a align= "center" href="https://github.com/nsonthalia1">
+  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=nsonthalia1&theme=cobalt&show_icons=true&count_private=true" />
+  <img align="right" height="270px" width="350" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" /> </a>
+</p>
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/nsonthalia1" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="naman" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/namaniyaa" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="naman" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/namanxg" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://fb.com/nsonthalia1" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/facebook.png" alt="naman" height="50" width="50" /></a>
+</p>
