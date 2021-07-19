@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋🏻, Its me, Naman. What up? </h1>
+<h1 align="center">Bonjour 👋🏻, It's me, Naman. What up? </h1>
 <h3 align="center">I'm a Student, a Developer and a Learner!</h3>
 
 <br>
@@ -24,4 +24,9 @@
 <a href="https://twitter.com/namaniyaa" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="naman" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/namanxg" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://fb.com/nsonthalia1" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/facebook.png" alt="naman" height="50" width="50" /></a>
+</p>
+
+<hr>
+<p align="center">
+  <img src="https://github.com/nsonthalia1/nsonthalia1/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
