@@ -7,7 +7,7 @@
 
 - 💬 Ask me about - **HTML , CSS, Bootstrap, Angular, JavaScript, jQuery, MongoDB.....**
 
-- 📧 How to reach me? **Connect to me via Email [Naman](mailto:namansonthalia5@gmail.com)**
+- 📧 How to reach me? **You can mail me @<namansonthalia5@gmail.com>**
 
 - ⚡ Fun fact: **I just made me laugh😆**
 
@@ -16,10 +16,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsonthalia1&label=Profile%20views&color=0e75b6&style=flat" alt="nsonthalia1" /></p>
 <p>
 <a align= "center" href="https://github.com/nsonthalia1">
-  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=nsonthalia1&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="270px" width="350" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" /> </a>
+  <img alt= "stats card" height="250px" width="500" src="https://github-readme-stats.vercel.app/api?username=nsonthalia1&theme=cobalt&show_icons=true&count_private=true" />
+  <img align="right" height="300px" width="400" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" /> </a>
 </p>
-<h3 align="left">Connect with me on:</h3>
+<br><br>
+<hr>
+<h3 align="center">Connect with me on:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/nsonthalia1" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="naman" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/namaniyaa" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="naman" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/namanxg" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
