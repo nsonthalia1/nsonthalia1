@@ -16,8 +16,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsonthalia1&label=Profile%20views&color=0e75b6&style=flat" alt="nsonthalia1" /></p>
 <p>
 <a align= "center" href="https://github.com/nsonthalia1">
-  <img alt= "stats card" height="250px" width="500" src="https://github-readme-stats.vercel.app/api?username=nsonthalia1&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="300px" width="400" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" /> </a>
+  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=nsonthalia1&theme=cobalt&show_icons=true&count_private=true" />
+  <img align="right" height="270px" width="350" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" /> </a>
 </p>
 <br><br>
 <hr>
